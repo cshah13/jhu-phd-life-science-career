@@ -13,14 +13,22 @@ This analysis uses open data from the [Next Generation Life Sciences Coalition](
 The following data set was used for this analysis. The original data used can be found [here](https://github.com/cshah13/jhu-phd-life-science-career/blob/main/Original%20Data.xlsx).
 - Johns Hopkins University, Career Outcomes of Life Science PhD Graduates 2003-2020
 
-## Data Analysis Questions
+## Data Analysis Question
 Microsoft Office Excel will be used to conduct a cluster analysis to answer the following data question:
-1. How can postgraduate career sectors for life science PhD program graduates at Johns Hopkins University be catergorized into three clusters?
+1. How can postgraduate career sectors for life science PhD program graduates at Johns Hopkins University be categorized into three clusters?
 
 ## Data Answer
-### How can postgraduate career sectors for life science PhD program graduates at Johns Hopkins University be catergorized into three clusters?
+### How can postgraduate career sectors for life science PhD program graduates at Johns Hopkins University be categorized into three clusters?
 
 ## Business Answer
 The analysis indicates that 
 
 ## Step by Step Instructions
+1. Downloaded raw data from the Next Generation Life Sciences Coalition
+2. Converted the PDF into Excel through the Microsoft Excel upload PDF data function
+3. Cleaned the data by removing "n" values and only keeping percentages for each category
+4. Used excel functions to calculate z scores for the values in each category, identified three sample cluster nods, used VLOOKUP to identify the cluster rod names, and calculcated distance squared for each value
+5. Calculated the minimum for each distance squared value, used the MATCH function to identify clusters, and calculated the sum of the minimums
+6. Used the Excel solver function to minimze the sum of minimums, identifying three new cluster rods 
+7. Color coded the new clusters associated to each area of study
+8. 
