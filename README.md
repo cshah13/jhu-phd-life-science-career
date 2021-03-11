@@ -31,4 +31,3 @@ The analysis indicates that
 5. Calculated the minimum for each distance squared value, used the MATCH function to identify clusters, and calculated the sum of the minimums
 6. Used the Excel solver function to minimze the sum of minimums, identifying three new cluster rods 
 7. Color coded the new clusters associated to each area of study
-8. 
