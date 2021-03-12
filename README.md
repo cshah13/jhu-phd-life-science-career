@@ -19,7 +19,7 @@ Microsoft Office Excel will be used to conduct a cluster analysis to answer the 
 
 ## Data Answer
 ### How can postgraduate career sectors for life science PhD program graduates at Johns Hopkins University be categorized into three clusters?
-
+![alttext](https://github.com/cshah13/jhu-phd-life-science-career/blob/main/Cluster%20Visualization.png)
 ## Business Answer
 The analysis indicates that 
 
