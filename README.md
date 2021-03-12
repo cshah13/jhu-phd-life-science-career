@@ -27,7 +27,7 @@ The analysis indicates that
 1. Downloaded raw data from the Next Generation Life Sciences Coalition
 2. Converted the PDF into Excel through the Microsoft Excel upload PDF data function
 3. Cleaned the data by removing "n" values and only keeping percentages for each category
-4. Used excel functions to calculate z scores for the values in each category, identified three sample cluster nods, used VLOOKUP to identify the cluster rod names, and calculcated distance squared for each value
+4. Used excel functions to calculate z scores for the values in each category, identified three sample cluster nods, used VLOOKUP to identify the cluster rod names, and calculated the distance squared for each value
 5. Calculated the minimum for each distance squared value, used the MATCH function to identify clusters, and calculated the sum of the minimums
 6. Used the Excel solver function to minimze the sum of minimums, identifying three new cluster rods 
 7. Color coded the new clusters associated to each area of study
