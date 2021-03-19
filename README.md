@@ -38,6 +38,6 @@ This data is helpful for career centers to identify the trend of sectors that po
 3. Cleaned the data by removing "n" values and only keeping percentages for each category
 4. Used Excel functions to calculate z scores for the values in each category, identified three sample cluster nodes, used VLOOKUP to identify the cluster node names, and calculated the distance squared for each value
 5. Calculated the minimum for each distance squared value, used the MATCH function to identify clusters, and calculated the sum of the minimums
-6. Used the Excel Solver function to minimze the sum of minimums, identifying three new cluster rods 
+6. Used the Excel Solver function to minimize the sum of minimums, identifying three new cluster rods 
 7. Color coded the new clusters associated to each area of study
 8. Moved clusters into a visualization chart and created a key to easily identify characteristics
