@@ -23,7 +23,7 @@ The Microsoft Office Excel Solver tool was used to identify clusters. The cluste
 
 ![alttext](https://github.com/cshah13/jhu-phd-life-science-career/blob/main/Visualization%20of%20Clusters.png)
 
-![alttext](https://github.com/cshah13/jhu-phd-life-science-career/blob/main/Cluster%20Pie%20Chart.png)
+![alttext](https://github.com/cshah13/jhu-phd-life-science-career/blob/main/Pie%20Chart.png)
 
 ## Business Answer
 The analysis indicates that there is a lot of variation in the sectors that life science PhD students at Johns Hopkins University pursue after graduation. It is interesting to see that some similar majors, such as Chemistry and Biological Chemistry, are placed in different clusters. This data is important for the Johns Hopkins University career center to best support PhD students. Since the academia sector is above average in Cluster 1, the career center can focus on preparing students in the specified majors for interviews in this sector. The sector not found is also above average, indicating that the career advisors for these areas of study may need to spend more time collecting postgraduate information from students. The students who enter the non profit, for profit, and government sectors are below average; there could either be less opportunities available in these sectors, or students are having difficulty acquiring jobs in these sectors. The career center can utilize this information to spend time preparing students for the sectors that are underrepresented. 
