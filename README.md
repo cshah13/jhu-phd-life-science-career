@@ -43,4 +43,4 @@ This data is helpful for career centers to identify the trend of sectors that po
 5. Calculated the minimum for each distance squared value, used the MATCH function to identify clusters, and calculated the sum of the minimums
 6. Used the Excel Solver function to minimize the sum of minimums, identifying three new cluster rods 
 7. Color coded the new clusters associated to each area of study
-8. Moved clusters into a visualization chart and created a key to easily identify characteristics
+8. Moved clusters into two visualization charts and created a key to easily identify characteristics
